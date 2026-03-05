@@ -14,6 +14,6 @@ In addition, developers can request a deeper, context-aware second opinion from 
 
 Our repositories include custom agent skills that are structured instructions that help AI coding agents understand the project's architecture, conventions, and multi-file workflows. Rather than relying on generic AI assistance, these skills encode domain-specific knowledge so that agents can perform tasks with a higher degree of accuracy and autonomy.
 
-This means developers can confidently delegate complex, recurring tasks to AI agents,such as generating new components that follow established patterns, creating boilerplate across multiple files, or preparing pull request descriptions that match the team's standards.
+This means developers can confidently delegate complex, recurring tasks to AI agents, such as generating new components that follow established patterns, creating boilerplate across multiple files, or preparing pull request descriptions that match the team's standards.
 
 Current skills cover areas including generating new AI Agent Tools, managing the LLM model lifecycle, generating PR descriptions, handling UI translations, and working with our Model Context Protocol (MCP) integration.
