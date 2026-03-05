@@ -1,6 +1,6 @@
 # NiCE Cognigy
 
-## Our AI-Enhanced Development Practices 
+## Our AI-Enhanced Development Practices
 
 ## Automated Code Review on Every Pull Request
 
